@@ -8,7 +8,7 @@ Atualmente faço parte da área administrativa de uma empresa de tecnologia e is
 
 ## Formação Acadêmica 🎓
 
--  Full Stack Design - Coderhouse (cursando) 👩‍💻
+-  Full Stack Designer - Coderhouse (cursando) 👩‍💻
 -  Pós-graduação em Gestão de Projetos - FIA (cursando) 📊
 -  Bacharelado em Comunicação Social - FMU  ☑️
 -  Técnico em Administração - SENAI         ☑️
