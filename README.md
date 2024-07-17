@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil! 
 
-<!--
-**jennifersilva97/jennifersilva97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Prazer! Meu nome é Jennifer e sou uma estudante de Full Stack 💻 formada em Comunicação 🎓 e isso é só o começo! 
+ 
 
-Here are some ideas to get you started:
+Atualmente faço parte da área administrativa de uma empresa de tecnologia e isso me fez querer saber um pouco mais desse mundo totalmente novo pra mim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Formação Acadêmica 🎓
+
+-  Técnico em Full Stack - SENAI (cursando) 👩‍💻
+-  Bacharelado em Comunicação Social - FMU  ☑️
+-  Técnico em Administração - SENAI         ☑️
+
